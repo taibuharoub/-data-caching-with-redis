@@ -1,0 +1,26 @@
+{
+  "name": "data-caching-with-redis",
+  "version": "1.0.0",
+  "description": "Data Caching with Redis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taibuharoub/data-caching-with-redis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taibuharoub/data-caching-with-redis/issues"
+  },
+  "homepage": "https://github.com/taibuharoub/data-caching-with-redis#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3",
+    "redis": "^3.1.2"
+  }
+}
